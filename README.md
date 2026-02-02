@@ -21,20 +21,3 @@ This heatmap shows pairwise correlations between all numerical features.
 ![Model Accuracy Comparison](images/model_accuracy_comparison.png)
 
 This bar chart compares the accuracy of different machine learning models.
-
-STEP 4 — FINAL DIRECTORY STRUCTURE (VERY IMPORTANT)
-
-Your repo should now look like this:
-
-Dagster-Reproducible-ML-Pipeline/
-│
-├── dagster_ml/
-├── images/
-│   ├── target_class_distribution.png
-│   ├── feature_distributions.png
-│   ├── correlation_heatmap.png
-│   └── model_accuracy_comparison.png
-│
-├── wine_dataset.csv
-├── A035_DevOps+DS.ipynb
-├── README.md
